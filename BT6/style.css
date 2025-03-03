@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+p .highlight {
+    color: red;
+    background-color: rgba(211, 211, 211, 0.5);
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.example {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.example code {
+    display: block;
+    white-space: pre;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-left: 10px solid green;
+}
+
+.try-it {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.property {
+    color: red;
+    font-weight: 700;
+}
+
+.value {
+    color: blue;
+    font-weight: 700;
+}
+
+.centered {
+    color: rgb(208, 74, 33);
+    font-weight: 700;
+}
